@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<meta charset="utf-8">
+<title>Worksheet</title>
+
+<link rel="stylesheet" type="text/css" href="screen.css" media="all">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
+</head>
+<body id="" class="">
+<div id="all">
+    <div id="main" class="row">
+        <div class="rowmax">
+            <h2>Worksheet</h2>
+            <p>
+            <b>24.1.2018</b> Total: 2:00h, +2:00h Sleepless night thinking about this and make sketch<br>
+            <b>25.1.2018</b> Total: 4:00h, +3:00h Thinking about Domainname and Naming. Text work for website, domain registration. Account setup on github<br>
+            <b>26.1.2018</b> Total: 9:00h, +4:00h Work an Webpage, Social media Accounts<br>
+            </p>
+            <h2>Costs</h2>
+            <p>
+            <b>25.1.2018</b> Total: 60 CHF, + 60 CHF Hosting for 1 Year<br>
+            <b>25.1.2018</b> Total: 82 CHF, + 22 CHF, Domains <br>
+            </p>
+
+        </div>
+    </div>
+</div>
+<script src="main.js"></script>
+</body>
+</html>
