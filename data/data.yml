@@ -1,0 +1,13 @@
+# http://yaml-online-parser.appspot.com/
+- huobi:
+  - url: https://www.huobi.pro
+  - type: exchange
+  - referral: false
+  - account: true
+  - social:
+    - reedit: 
+- bittrex:
+  - url: https://www.bittrex.com
+  - type: exchange
+  - referral: false
+  - account: false
