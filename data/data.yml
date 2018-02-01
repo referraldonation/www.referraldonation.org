@@ -2,12 +2,17 @@
 - huobi:
   - url: https://www.huobi.pro
   - type: exchange
-  - referral: false
   - account: true
   - social:
     - reedit: 
 - bittrex:
   - url: https://www.bittrex.com
   - type: exchange
-  - referral: false
   - account: false
+- bitmex:
+  - url: https://www.bitmex.com/
+  - type: exchange
+  - referral:
+    - url: https://www.bitmex.com/register/soqtM7
+    - id: soqtM7
+  - account: true
